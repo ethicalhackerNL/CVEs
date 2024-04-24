@@ -26,8 +26,9 @@ bill_date=1010-10-10&bill_amount=oeq80%3cscript%3ealert(1)%3c%2fscript%3ejpks9
 Electricity Consumption Monitoring Tool/elec xss 1.png
 
 
-
 + Then Forwared the request
 + XSS will be triggered.
+
+  https://github.com/ethicalhackerNL/CVEs/blob/e6302b61ab35762dc970746e4fbbb7641f7510c0/Electricity%20Consumption%20Monitoring%20Tool/elec%20xss%201.png
 
 
