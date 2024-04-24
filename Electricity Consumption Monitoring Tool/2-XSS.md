@@ -1,5 +1,5 @@
-# Electricity Consumption Monitoring Tool - Cross-Site-Scripting -1
-+ *Exploit Title:* Electricity Consumption Monitoring Tool  - Cross-Site-Scripting -1
+# Electricity Consumption Monitoring Tool - Cross-Site-Scripting -2
++ *Exploit Title:* Electricity Consumption Monitoring Tool  - Cross-Site-Scripting -2 - Parameter bill_date
 + *Date:* 2024-04-24
 + *Exploit Author:* Asif Nawaz Minhas
 + *Vendor Homepage:* https://www.sourcecodester.com/php/17328/electricity-consumption-monitoring-tool-using-php-and-mysql-source-code.html
