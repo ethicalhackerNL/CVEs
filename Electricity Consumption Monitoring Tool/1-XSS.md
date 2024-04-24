@@ -23,6 +23,8 @@ This could allow an attacker to steal cookie-based authentication credentials an
 
 bill_date=1010-10-10&bill_amount=oeq80%3cscript%3ealert(1)%3c%2fscript%3ejpks9
 
+
+
 + Then Forwared the request
 + XSS will be triggered.
 
