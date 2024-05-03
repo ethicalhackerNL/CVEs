@@ -6,7 +6,7 @@
 + *Software Link:* https://download.code-projects.org/details/97b61777-5089-4b4f-841f-10e10be5859e
 + *Version:* 1.0
 + *Tested on:* Kali Linux + PHP 8.2.12, Apache 2.4.58
-+ *CVE:* Reported, waiting for CVE number
++ *CVE:* CVE-2024-33778
 
 ## Description:
 Electricity Consumption Monitoring Tool is vulnerable to a cross-site scripting vulnerability because it fails to adequately sanitize user-supplied data. 
