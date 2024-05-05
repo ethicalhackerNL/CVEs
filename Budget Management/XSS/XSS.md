@@ -23,3 +23,7 @@ This could allow an attacker to steal cookie-based authentication credentials an
 
 
  ![XSS]( https://github.com/ethicalhackerNL/CVEs/blob/ee7c15c4a2579ba433dbc28011e7b24ea47fd61e/Budget%20Management/XSS/print%201.png )
+
+ ![XSS]( [https://github.com/ethicalhackerNL/CVEs/blob/ee7c15c4a2579ba433dbc28011e7b24ea47fd61e/Budget%20Management/XSS/print%201.png](https://github.com/ethicalhackerNL/CVEs/blob/0793356fa3359d7ff8da998702593ffd225ffa81/Budget%20Management/XSS/print2.png) )
+
+  ![XSS]( [https://github.com/ethicalhackerNL/CVEs/blob/ee7c15c4a2579ba433dbc28011e7b24ea47fd61e/Budget%20Management/XSS/print%201.png](https://github.com/ethicalhackerNL/CVEs/blob/0793356fa3359d7ff8da998702593ffd225ffa81/Budget%20Management/XSS/print3.png) )
