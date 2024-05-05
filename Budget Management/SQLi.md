@@ -9,7 +9,7 @@
 + *CVE:* Requested CVE 
 
 ## Description:
-Budget Managemen is vulnerable to a unauthenticated SQL injection vulnerability.
+Budget Management is vulnerable to a unauthenticated SQL injection vulnerability.
 Exploiting this issue could allow an attacker to compromise the application, access or modify data, or exploit the latest vulnerabilities in the underlying database.
 
 ## Proof of Concept:
