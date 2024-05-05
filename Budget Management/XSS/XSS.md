@@ -6,7 +6,7 @@
 + *Software Link:* https://download.code-projects.org/details/1c10fce2-3260-479b-878f-b2107dec72f9
 + *Version:* 1.0
 + *Tested on:* Kali Linux + PHP 8.2.12, Apache 2.4.58
-+ *CVE:* CVE-2024-33778
++ *CVE:* Requested CVE 
 
 ## Description:
 Budget Management is a simple project developed using PHP. This project is an interesting project for calculating and creating expenses based on CRUD actions. 
