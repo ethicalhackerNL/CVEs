@@ -22,4 +22,4 @@ This could allow an attacker to steal cookie-based authentication credentials an
 + Now you will see the stored XSS popping up every time.
 
 
- ![XSS](  )
+ ![XSS]( https://github.com/ethicalhackerNL/CVEs/blob/ee7c15c4a2579ba433dbc28011e7b24ea47fd61e/Budget%20Management/XSS/print%201.png )
