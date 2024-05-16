@@ -6,7 +6,7 @@
 + *Software Link:* https://download.code-projects.org/details/1c10fce2-3260-479b-878f-b2107dec72f9
 + *Version:* 1.0
 + *Tested on:* Kali Linux + PHP 8.2.12, Apache 2.4.58
-+ *CVE:* Requested CVE 
++ *CVE:* CVE-2024-34955 
 
 ## Description:
 Budget Management is vulnerable to a unauthenticated SQL injection vulnerability.
